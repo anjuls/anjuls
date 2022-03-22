@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am [Anjul](https://anjul.dev), working as principal in the platform engineering team at [Lummo](https://www.linkedin.com/company/lummoindonesia) (we are hiring, ping me to know more). My interest area is cloud native development, Kubernetes, DevOps, Cloud computing, Programming particularly Python and Golang. 
+I am [Anjul](https://anjul.dev), working as principal in the platform engineering team at [Lummo](https://www.linkedin.com/company/lummoindonesia) (we are hiring, ping me to know more). My interest area is cloud native development, Kubernetes, DevOps, Cloud computing, Programming particularly Python and Golang and security.
 
 - 🌱 I’m currently learning Golang and Kubernetes controllers
 - 💬 Ask me about anything.
