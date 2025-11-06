@@ -7,4 +7,4 @@ I am Anjul, founder of [CloudRaft](https://www.cloudraft.io). We are an AI and c
 
 
 ### Looking for a new role?
-If you are interested in working with us at [CloudRaft](https://www.cloudraft.io), please email to talent@cloudraft.io. 
+If you are interested in working with us at [CloudRaft](https://www.cloudraft.io), pls apply via our [job portal](https://jobs.gem.com/cloudraft). 
