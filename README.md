@@ -1,9 +1,8 @@
 ## Hi there 👋
-I am Anjul, founder of [CloudRaft](https://www.cloudraft.io). We are an AI and cloud-native consulting.
+I am technologist who continuously evolve with time and currently building [CloudRaft](https://www.cloudraft.io). 
 
-- 🌱 I’m currently learning about the innovations in AI
-- 💬 Ask me about AI Cloud, Kubernetes, Cloud Native, DevOps, and tech in general.
-- 📫 How to reach me: I am active on [LinkedIn](https://www.linkedin.com/in/anjul/)
+
+📫 How to reach me: I am active on [LinkedIn](https://www.linkedin.com/in/anjul/)
 
 
 ### Looking for a new role?
